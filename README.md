@@ -22,9 +22,8 @@ My Suggestions
 For future hackathons, I sincerely suggest:
 
 - Clearly explain the evaluation criteria before judging.
-- Maintain consistent judging standards for all participants.
 - Give participants some feedback after the final round.
-- Make the award and recognition criteria more transparent.
+- Make the award and recognition(top 10 innovators) criteria more transparent.
 
 I believe these small changes can make the experience better and more meaningful for every participant.
 
